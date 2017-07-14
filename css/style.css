@@ -516,6 +516,18 @@ li.selected .cd-project-title,
     font-size: 18px; }
   .cd-project-info .arches p a, .cd-project-info .arches span {
     color: #903522; }
+  .cd-project-info .glacier span {
+    font-size: 18px; }
+  .cd-project-info .glacier p a, .cd-project-info .glacier span {
+    color: #658c3b; }
+  .cd-project-info .smoky span {
+    font-size: 18px; }
+  .cd-project-info .smoky p a, .cd-project-info .smoky span {
+    color: #c1a83d; }
+  .cd-project-info .grand span {
+    font-size: 18px; }
+  .cd-project-info .grand p a, .cd-project-info .grand span {
+    color: #4e8eaa; }
   .cd-project-info img {
     padding-bottom: 15px;
     padding-top: 10px; }
